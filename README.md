@@ -1,9 +1,8 @@
 # Smart-India-Hackathon-Workshop
 
-# Smart India Hackathon Workshop
 # Date: 17/12/25
-## Register Number:212222240009
-## Name: ANBUSELVAM A
+## Register Number:212223040218
+## Name: SUSINDHAR K M
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
